@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chronicle Nexus</string>
+    <string name="nav_battle">Battle</string>
+    <string name="nav_party">Party</string>
+    <string name="nav_medals">Medals</string>
+    <string name="nav_realms">Realms</string>
+    <string name="nav_engine">Engine</string>
+    <string name="engine_subtitle">ATB &amp; Medal Wheel Tactical RPG Engine</string>
+    <string name="action_attack">Attack</string>
+    <string name="action_special">Medal Burst</string>
+    <string name="action_defend">Defend</string>
+    <string name="action_soul_break">Soul Break</string>
+    <string name="action_auto">Auto AI</string>
+    <string name="action_speed">Speed</string>
+    <string name="action_wait_mode">Wait Mode</string>
+    <string name="action_telemetry">Telemetry</string>
+    <string name="action_reset_battle">Restart Encounter</string>
+    <string name="synergy_active">REALM SYNERGY ACTIVE (+20% STATS)</string>
+    <string name="summon_medal">Relic &amp; Medal Draw (50 Mythril)</string>
+    <string name="create_custom_boss">Create Boss Encounter</string>
+    <string name="create_custom_medal">Forge Custom Medal</string>
+</resources>
